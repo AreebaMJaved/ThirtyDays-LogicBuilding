@@ -98,7 +98,7 @@ Every problem is approached through the following process:
 - Accumulation
 - Dry runs
 - Basic problem decomposition
- ![notes](images/day01-notes.png)
+- ![notes](images/day01-notes.png)
 
 **Day 02 — Loop Thinking**
 - Repetition
