@@ -108,7 +108,7 @@ Every problem is approached through the following process:
 - Conditional updates
 - Nested loops
 - Loop control
-
+- ![notes](notes/day02-notes.png)
 **Day 03+ — Arrays & Strings**
 - Traversal
 - Searching
